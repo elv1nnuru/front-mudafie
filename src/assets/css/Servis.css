@@ -1,0 +1,74 @@
+.services-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.service-card {
+    background-color: #fff;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.service-card img {
+    width: 150px;
+    /* height: auto; */
+    border-radius: 10px 10px 0 0;
+}
+
+.service-card h3 {
+    margin: 15px 0 10px;
+    font-size: 1.25em;
+}
+
+.service-card p {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.service-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 sütun oluşturur */
+    gap: 20px;
+    margin-top: 20px;
+}
+
+@media (max-width: 1024px) {
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr); /* Orta boyutlu ekranlarda 2 sütun */
+    }
+}
+
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr; /* Küçük ekranlarda 1 sütun */
+    }
+}
+
+

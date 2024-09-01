@@ -1,0 +1,33 @@
+.team-head h1{
+    font-size: 20px;
+    text-align: center;
+    padding: 35px 15px 0;
+    font-weight: 800;
+}
+
+.team-head p{
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}
+
+.team-konteyner .team-kart{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+@media(max-width:480px){
+    .team-head h1{
+        font-size: 25px;
+    }
+
+    .team-head p{
+    padding: 15px 24px;
+    font-size: 17px;
+
+    }
+}

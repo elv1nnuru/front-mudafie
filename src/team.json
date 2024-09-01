@@ -1,0 +1,30 @@
+[
+    {
+        
+        "id": 1,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1710147244/1_rr5yjj.jpg",
+        "title": "Richards Mills",
+        "body": "Sales Consultant"
+      },
+      {
+        
+        "id": 2,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1710147291/2_f6ktr4.jpg",
+        "title": "Mike Hussey",
+        "body": "Founder, CEO"
+      },
+      {
+        
+        "id": 3,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1710147333/3_jptaox.jpg",
+        "title": "Jenilia Dsosa",
+        "body": "Marketing Lead"
+      },
+      {
+        
+        "id": 4,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1710147368/4_gnzncx.jpg",
+        "title": "David Warner",
+        "body": "SEO Analyst"
+      }
+]

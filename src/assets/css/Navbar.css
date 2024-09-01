@@ -1,0 +1,15 @@
+.menim-navbarim {
+    background-color: #000F32;
+    padding: 7px 6px ;
+  }
+
+  .my-white{
+   background-color: white;
+  }
+
+  @media(max-width:480px){
+    .navbar-brand {
+      font-size: 18px;
+      
+    }
+  }

@@ -1,0 +1,32 @@
+[
+  {
+        
+    "id": 1,
+    "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1707238370/1_v0lqbn.png",
+    "title": "Consumer Insights",
+    "body": "The east side to a deluxe apartment in move on up to the east side"
+  },
+    
+      {
+        
+        "id": 2,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1707238241/2_mljjnw.png",
+        "title": "Emerging Ideas",
+        "body": "The east side to a deluxe apartment in move on up to the east side"
+      },
+      {
+        
+        "id": 3,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1707238417/3_giho4t.png",
+        "title": "Thought Leadership",
+        "body": "The east side to a deluxe apartment in move on up to the east side"
+      },
+      {
+        
+        "id": 4,
+        "shekil":"https://res.cloudinary.com/db1cpkt7q/image/upload/v1707238301/4_y7t6oc.png",
+        "title": "Marketing Goals",
+        "body": "The east side to a deluxe apartment in move on up to the east side"
+      }
+
+]
